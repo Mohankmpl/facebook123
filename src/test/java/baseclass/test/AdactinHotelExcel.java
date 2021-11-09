@@ -9,6 +9,7 @@ public class AdactinHotelExcel {
 	public static void main(String[] args) throws IOException, InterruptedException {
 		Base ref = new Base();
 		ref.chromeBrowserLaunch();
+		ref.maximize();
 		ref.enterUrl("http://adactinhotelapp.com/");
 		String username = ref.getData("Datas", 0, 1);
 		String password = ref.getData("Datas", 1, 1);
