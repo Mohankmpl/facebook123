@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="childperroom" value="3 - Three"/>
+    <parameter name="address" value="Annanagar"/>
+    <parameter name="cc_exp_month" value="November"/>
+    <parameter name="roomNos" value="Deluxe"/>
+    <parameter name="cc_num" value="1234567890123456"/>
+    <parameter name="last_name" value="Kumar"/>
+    <parameter name="cc_cvv" value="314"/>
+    <parameter name="roomtype" value="3 - Three"/>
+    <parameter name="cc_exp_year" value="2012"/>
+    <parameter name="cc_type" value="American Express"/>
+    <parameter name="password" value="Mohan3011"/>
+    <parameter name="checkin" value="03/11/2021"/>
+    <parameter name="hotel" value="Hotel Sunshine"/>
+    <parameter name="location" value="London"/>
+    <parameter name="adultsperroom" value="2 - Two"/>
+    <parameter name="checkout" value="04/11/2021"/>
+    <parameter name="first_name" value="Mohan"/>
+    <parameter name="username" value="Mohan3011"/>
+    <classes>
+      <class name="org.test.TestNGAdactin">
+        <methods>
+          <include name="tc1" invocation-numbers="0"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- org.test.TestNGAdactin -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

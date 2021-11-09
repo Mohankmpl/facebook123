@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26304" started-at="2021-11-03T03:53:50Z" finished-at="2021-11-03T03:54:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26304" started-at="2021-11-03T03:53:50Z" finished-at="2021-11-03T03:54:16Z">
+      <class name="org.test.TestNGAdactin">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.test.TestNGAdactin@1060b431]" name="beforeClass" is-config="true" duration-ms="9435" started-at="2021-11-03T03:53:50Z" finished-at="2021-11-03T03:53:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="tc1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.test.TestNGAdactin@1060b431]" name="tc1" duration-ms="16824" started-at="2021-11-03T03:53:59Z" finished-at="2021-11-03T03:54:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mohan3011]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mohan3011]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[London]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Hotel Sunshine]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Deluxe]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[3 - Three]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[03/11/2021]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[04/11/2021]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[2 - Two]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[3 - Three]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Mohan]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Annanagar]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[1234567890123456]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[American Express]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[November]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[2012]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[314]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- org.test.TestNGAdactin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
